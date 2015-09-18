@@ -1,0 +1,1 @@
+At first I was under the assumption that we'd have to come up with a project idea or go along with someone else's idea. This resulted in me thinking I had no project. After learning that I could use my RCOS project for this, I now have a project (EVE Online Market Analysis Tool AKA EVE MAT).
